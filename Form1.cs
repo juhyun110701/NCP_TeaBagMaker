@@ -70,7 +70,7 @@ namespace TeaBagMaker
                     time--;
                     this.timelabel.Text = Convert.ToString(time / 60 + "분 " + time % 60 + "초 남았습니다!");
                 }
-          
+            }
             }
     }
 }
