@@ -54,7 +54,7 @@ namespace TeaBagMaker
         {
             Timer_Tick(sender,e);
         }
-
+         
         private void Timer_Tick(object sender, EventArgs e)
         {
             {
